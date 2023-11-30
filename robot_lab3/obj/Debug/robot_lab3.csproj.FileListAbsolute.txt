@@ -1,0 +1,7 @@
+M:\FACULTATE\ANUL 3\SEMESTRUL 1\Baze de Cunostiinte\robot_lab3\bin\Debug\robot_lab3.exe.config
+M:\FACULTATE\ANUL 3\SEMESTRUL 1\Baze de Cunostiinte\robot_lab3\bin\Debug\robot_lab3.exe
+M:\FACULTATE\ANUL 3\SEMESTRUL 1\Baze de Cunostiinte\robot_lab3\bin\Debug\robot_lab3.pdb
+M:\FACULTATE\ANUL 3\SEMESTRUL 1\Baze de Cunostiinte\robot_lab3\obj\Debug\robot_lab3.csproj.AssemblyReference.cache
+M:\FACULTATE\ANUL 3\SEMESTRUL 1\Baze de Cunostiinte\robot_lab3\obj\Debug\robot_lab3.csproj.CoreCompileInputs.cache
+M:\FACULTATE\ANUL 3\SEMESTRUL 1\Baze de Cunostiinte\robot_lab3\obj\Debug\robot_lab3.exe
+M:\FACULTATE\ANUL 3\SEMESTRUL 1\Baze de Cunostiinte\robot_lab3\obj\Debug\robot_lab3.pdb
